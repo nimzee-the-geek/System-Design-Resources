@@ -9,3 +9,4 @@ Articles to learn System Design Principles
 5. [API Design](https://www.youtube.com/watch?v=XvFmUE-36Kc)
 6. [Short Polling vs Long Polling vs WebSockets](https://www.youtube.com/watch?v=ZBM28ZPlin8)
 7. [Bloom Filter](https://www.youtube.com/watch?v=bgzUdBVr5tE)
+8. [12-Factor App](https://www.youtube.com/watch?v=94PxlbuizCU)
