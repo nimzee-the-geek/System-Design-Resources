@@ -5,3 +5,7 @@ Articles to learn System Design Principles
 1. [tRPC, gRPC, GraphQL, or REST: when to use what?](https://www.youtube.com/watch?v=veAb1fSp1Lk)
 2. [Load Balancer Basics](https://www.youtube.com/watch?v=mswjnBHHd1M)
 3. [Forward vs Reverse Proxy](https://www.youtube.com/watch?v=HrG0MHkSsCA)
+4. [Availability](https://www.youtube.com/watch?v=WC7kpQPGPp8)
+5. [API Design](https://www.youtube.com/watch?v=XvFmUE-36Kc)
+6. [Short Polling vs Long Polling vs WebSockets](https://www.youtube.com/watch?v=ZBM28ZPlin8)
+7. [Bloom Filter](https://www.youtube.com/watch?v=bgzUdBVr5tE)
