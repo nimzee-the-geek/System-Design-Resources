@@ -10,3 +10,8 @@ Articles to learn System Design Principles
 6. [Short Polling vs Long Polling vs WebSockets](https://www.youtube.com/watch?v=ZBM28ZPlin8)
 7. [Bloom Filter](https://www.youtube.com/watch?v=bgzUdBVr5tE)
 8. [12-Factor App](https://www.youtube.com/watch?v=94PxlbuizCU)
+9. [Rate Limiting Algorithms](https://www.youtube.com/watch?v=mQCJJqUfn9Y)
+10. [Stateful vs Stateless Architecture](https://www.youtube.com/watch?v=20tpk8A_xa0)
+11. [Stream vs Batch Processing](https://www.youtube.com/watch?v=ya4298V8Mqo)
+12. [Concurrency vs Parallelism](https://www.youtube.com/watch?v=RlM9AfWf1WU)
+13. 
