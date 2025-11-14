@@ -14,4 +14,7 @@ Articles to learn System Design Principles
 10. [Stateful vs Stateless Architecture](https://www.youtube.com/watch?v=20tpk8A_xa0)
 11. [Stream vs Batch Processing](https://www.youtube.com/watch?v=ya4298V8Mqo)
 12. [Concurrency vs Parallelism](https://www.youtube.com/watch?v=RlM9AfWf1WU)
-13. 
+13. [Idempotency in API](https://www.youtube.com/watch?v=XAccGbtl3Z8)
+14. [Idempotency in API - Payment Example](https://www.youtube.com/watch?v=m6DtqSb1BDM)
+15. [Distributed Messaging Queue](https://www.youtube.com/watch?v=oVZtzZVe9Dg)
+16 [Active-Passivs vs Active-Active cluster](https://www.youtube.com/watch?v=d-Bfi5qywFo)
