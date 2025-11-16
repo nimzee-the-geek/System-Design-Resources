@@ -20,4 +20,4 @@ Articles to learn System Design Principles
 16. [Active-Passivs vs Active-Active cluster](https://www.youtube.com/watch?v=d-Bfi5qywFo)
 17. [Design a ditributed cache](https://www.youtube.com/watch?v=iuqZvajTOyA&t=2s)
 18. [Deployment Strategies](https://www.youtube.com/watch?v=AWVTKBUnoIg)
-19. 
+19. [Change Data Capture](https://www.youtube.com/watch?v=dN_11nBcv_A)
