@@ -10,10 +10,9 @@ This repository contains free resources to learn System Design concepts and prep
 - [Stateful vs Stateless Architecture](https://www.youtube.com/watch?v=20tpk8A_xa0)
 - [Stream vs Batch Processing](https://www.youtube.com/watch?v=ya4298V8Mqo)
 - [Concurrency vs Parallelism](https://www.youtube.com/watch?v=RlM9AfWf1WU)
-- [Distributed Messaging Queue](https://www.youtube.com/watch?v=oVZtzZVe9Dg)
-- [Distributed Cache](https://www.youtube.com/watch?v=iuqZvajTOyA&t=2s)
 - [Content Delivery Network](https://www.youtube.com/watch?v=b4_6thkYZXs)
-- [Algorithms in Distributed Systems - Playlist](https://www.youtube.com/playlist?list=PLsdq-3Z1EPT1wfRQo2xrrst2SGremT_qd)
+- [Consistent Hashing]
+-
 
 ## 🔌 API Fundamentals
 - [API Design](https://www.youtube.com/watch?v=XvFmUE-36Kc)
@@ -30,9 +29,21 @@ This repository contains free resources to learn System Design concepts and prep
 - [Blue-Green Deployment](https://www.youtube.com/watch?v=W6HANd8c9t4)
 - [Canary Deployment](https://www.youtube.com/watch?v=nnseeKxovaM)
 
-## Microservices
+## 🧩 Distributed System and Microservices
 - [12-Factor App](https://www.youtube.com/watch?v=94PxlbuizCU)
 - [Microservices with Database](https://www.youtube.com/watch?v=tiHKefWOyrY)
+- [Algorithms in Distributed Systems - Playlist](https://www.youtube.com/playlist?list=PLsdq-3Z1EPT1wfRQo2xrrst2SGremT_qd)
+- [HeartBeats](https://blog.algomaster.io/p/heartbeats-in-distributed-systems)
+- [Service Discovery](https://blog.algomaster.io/p/service-discovery-in-distributed-systems)
+- [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
+- [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+- [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices) 
+- [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
+- [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
+- [Disaster Recovery](https://cloud.google.com/learn/what-is-disaster-recovery)
+- [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
+- [Distributed Messaging Queue](https://www.youtube.com/watch?v=oVZtzZVe9Dg)
+- [Distributed Cache](https://www.youtube.com/watch?v=iuqZvajTOyA&t=2s)
 
 ## 💻 System Design Interview Problems
 ### Easy
