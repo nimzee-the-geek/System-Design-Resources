@@ -14,6 +14,8 @@ This repository contains free resources to learn System Design concepts and prep
 - [Consistent Hashing](https://www.youtube.com/watch?v=zaRkONvyGr8)
 - [CAP Theorem](https://blog.algomaster.io/p/cap-theorem-explained)
 - [Types of Databases](https://blog.algomaster.io/p/15-types-of-databases)
+- [Caching Strategies](https://algomaster.io/learn/system-design/caching-strategies)
+- [Cache Eviction Policies](https://algomaster.io/learn/system-design/cache-eviction-policies)
 
 ## 🔌 API Fundamentals
 - [API Design](https://www.youtube.com/watch?v=XvFmUE-36Kc)
